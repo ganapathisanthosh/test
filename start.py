@@ -1,3 +1,4 @@
 print("Hello")
 a=5
-print(a)
+b=4
+print(a,b)
