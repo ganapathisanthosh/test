@@ -6,3 +6,4 @@ else:
     print("Complete the task by EOD")
     print("Send daily status mailsss")
     print("Then logoff")
+    print("Attend meeting at 10:30")
