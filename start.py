@@ -1,5 +1,5 @@
 status=input("Are you willing to change? ")
-if status=="Yes" and status=="yo":
+if status=="Yes" and status=='y':
     print("Prepare resume")
 else:
     print("Do your work.")
