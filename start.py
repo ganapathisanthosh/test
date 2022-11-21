@@ -1,4 +1,4 @@
-status=input("Are you willing to change? ")
+status=input("it logAre you willing to change? ")
 if status=="Yes":
     print("Prepare resume")
 else:
