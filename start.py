@@ -1,5 +1,5 @@
-print("Hello")
-a=5
-b=4
-print("Sum: ",a+b)
-
+status=input("Are you willing to change? ")
+if status=="Yes":
+    print("Prepare resume")
+else:
+    print("Do your work.")
