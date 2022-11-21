@@ -4,4 +4,4 @@ if status=="Yes":
 else:
     print("Do your work.")
     print("Complete the task by EOD")
-    print("Send daily status mailss")
+    print("Send daily status mailsss")
