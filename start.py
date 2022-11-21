@@ -5,3 +5,4 @@ else:
     print("Do your work.")
     print("Complete the task by EOD")
     print("Send daily status mailsss")
+    print("Then logoff")
